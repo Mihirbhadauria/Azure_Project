@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates a comprehensive data migration from an on-premise SQL Server to Azure, showcasing the use of Azure's cloud services to enhance data scalability, reliability, and analysis capabilities. Designed as a blueprint for modern data warehousing solutions, it offers insight into my expertise with Azure services and data engineering principles.
 
-![Architecture Diagram](/Azure_Architecture_Diagram.drawio)
+![Architecture Diagram](/Azure_Architecture_Diagram.drawio.png)
 
 ## Key Highlights
 - Efficient data migration and transformation using Azure's ecosystem.
