@@ -31,4 +31,4 @@ The project follows a structured approach, ensuring data integrity and security:
 This project is a testament to my ability to handle complex data migrations and transformations, demonstrating my technical proficiency and strategic thinking in cloud-based solutions.
 
 ## Contact
-For queries or discussions regarding this project, please contact me at mihirbhadauria@gmail.com.
+For queries or discussions regarding this project, please contact me at mihirbhadauria@gmail.com
